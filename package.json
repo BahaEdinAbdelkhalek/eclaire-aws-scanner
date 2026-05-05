@@ -1,0 +1,13 @@
+{
+  "name": "eclaire-aws-scanner",
+  "version": "1.2.0",
+  "dependencies": {
+    "@aws-sdk/client-resource-explorer-2": "^3.0.0",
+    "@aws-sdk/client-sqs": "^3.0.0",
+    "@aws-sdk/client-iam": "^3.0.0",
+    "@aws-sdk/client-route-53": "^3.0.0",
+    "@aws-sdk/client-cloudfront": "^3.0.0",
+    "@aws-sdk/client-acm": "^3.0.0",
+    "@aws-sdk/client-secrets-manager": "^3.0.0"
+  }
+}
